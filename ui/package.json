@@ -46,7 +46,7 @@
     "moment": "^2.24.0",
     "monaco-editor": "^0.15.6",
     "monaco-editor-webpack-plugin": "^1.7.0",
-    "node-sass": "^4.7.2",
+    "node-sass": "^5.0.0",
     "prop-types": "^15.6.0",
     "raw-loader": "^0.5.1",
     "react": "^16.8.3",
@@ -75,7 +75,7 @@
     "unidiff": "^1.0.2",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.2.3",
-    "webpack-dev-server": "^3.2.1"
+    "webpack-dev-server": "^4.0.0"
   },
   "resolutions": {
     "@types/react": "16.8.5",
