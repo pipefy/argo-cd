@@ -68,14 +68,14 @@
     "superagent": "^3.8.2",
     "superagent-promise": "^1.1.0",
     "ts-loader": "^6.0.4",
-    "ts-node": "^4.1.0",
-    "tslint": "^5.16.0",
+    "ts-node": "^8.1.1",
+    "tslint": "^5.20.0",
     "tslint-react": "^3.4.0",
     "typescript": "^3.4.5",
-    "unidiff": "^1.0.2",
+    "unidiff": "^1.0.3",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.2.3",
-    "webpack-dev-server": "^3.2.1"
+    "webpack-dev-server": "^4.0.0"
   },
   "resolutions": {
     "@types/react": "16.8.5",
